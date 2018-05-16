@@ -1,0 +1,11 @@
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\bin\Debug\SiteEmlakTakibi.exe.config
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\bin\Debug\SiteEmlakTakibi.exe
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\bin\Debug\SiteEmlakTakibi.pdb
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.csprojResolveAssemblyReference.cache
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.Form1.resources
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.Properties.Resources.resources
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.csproj.GenerateResource.cache
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.csproj.CoreCompileInputs.cache
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.exe
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.pdb
+D:\visualprojeler\SiteEmlakTakibi\SiteEmlakTakibi\obj\Debug\SiteEmlakTakibi.Form2.resources
